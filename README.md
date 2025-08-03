@@ -47,3 +47,37 @@ Delete the virtualEnv.
 ```
 .\mrproper.ps1
 ```
+
+## Usage (Linux)
+
+This section describe the usage of the scripts, to be executed in a Shell.
+
+### Prerequisite
+
+- To be installed: Python 3 and pip
+
+    Example for Ubuntu: `sudo apt install python3 python3-pip`
+
+### Once: prepare
+
+Prepare the virtualEnv (with dependencies listed in requirements.txt):
+```
+./prepare.sh
+```
+
+### Launch
+
+Activate the virtual environment and launch the app
+
+```
+./launch.sh [arguments]
+```
+
+The arguments will be forwarded to app.py.
+
+### MrProper
+
+Delete the virtualEnv.
+```
+./mrproper.sh
+```
