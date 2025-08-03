@@ -1,4 +1,5 @@
 #!/bin/bash
+# From "python-template" project (https://github.com/pull-up-dev/python-template)
 # Prepare the development environment (Windows), and install the required pip packages as listed in requirements.txt
 # Prerequisite (example for Ubuntu): install packages python3 and python3-pip (using apt)
 

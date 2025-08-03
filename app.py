@@ -1,5 +1,6 @@
 '''
 Dummy example application
+# From "python-template" project (https://github.com/pull-up-dev/python-template)
 Takes a configuration file as argument (-c or --config-file)
 '''
 

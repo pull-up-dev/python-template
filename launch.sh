@@ -1,4 +1,5 @@
 #!/bin/bash
+# From "python-template" project (https://github.com/pull-up-dev/python-template)
 # Activate the virtual environment and launch the Python application
 
 source virtEnv/bin/activate
